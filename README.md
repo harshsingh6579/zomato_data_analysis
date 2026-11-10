@@ -34,4 +34,3 @@ The goal of this analysis is to extract meaningful business insights from Zomato
 1. **Clone the repository**:
    ```bash
    git clone [https://github.com/your-username/zomato-restaurant-analysis.git](https://github.com/your-username/zomato-restaurant-analysis.git)
-   cd zomato-restaurant-analysis
