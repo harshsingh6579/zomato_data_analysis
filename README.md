@@ -31,6 +31,7 @@ The goal of this analysis is to extract meaningful business insights from Zomato
 
 ## 🚀 How to Run Locally
 
-1. **Clone the repository**:
+- **Clone the repository**:
    ```bash
-   git clone [https://github.com/your-username/zomato-restaurant-analysis.git](https://github.com/your-username/zomato-restaurant-analysis.git)
+   git clone https://github.com/harshsingh6579/zomato_data_analysis.git
+   cd zomato_data_analysis
